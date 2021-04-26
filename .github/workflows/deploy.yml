@@ -17,7 +17,7 @@ jobs:
         submodules: true
 
     - name: Hugo Deploy GitHub Pages
-      uses: benmatselby/hugo-deploy-gh-pages@master
+      uses: charlescossette/hugo-deploy-gh-pages@master
       env:
         HUGO_EXTENDED: true
         HUGO_VERSION: 0.82.1
