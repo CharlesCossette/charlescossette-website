@@ -13,9 +13,10 @@ jobs:
     steps:
     - name: Checkout master
       uses: actions/checkout@v1
-      uses: actions/setup-go@v1
       with:
         submodules: true
+    - name: Setup go
+      uses: actions/setup-go@v1
 
     - name: Hugo Deploy GitHub Pages
       uses: charlescossette/hugo-deploy-gh-pages@master
