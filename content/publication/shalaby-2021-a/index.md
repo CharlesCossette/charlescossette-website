@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-27T14:33:12.990106Z'
+publishDate: '2021-05-06T15:23:46.702530Z'
 publication_types:
 - '2'
 abstract: It is often convenient to separate a state estimation task into smaller
@@ -58,4 +58,5 @@ abstract: It is often convenient to separate a state estimation task into smalle
   while performing comparatively to the full-state filter.
 publication: '*IEEE Robotics and Automation Letters*'
 doi: 10.1109/LRA.2021.3068694
+url_pdf: https://arxiv.org/pdf/2103.04249.pdf
 ---

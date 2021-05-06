@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-27T14:33:12.707768Z'
+publishDate: '2021-05-06T15:23:46.386736Z'
 publication_types:
 - '1'
 abstract: Thoroughly assessing the performance of launch vehicle control systems often

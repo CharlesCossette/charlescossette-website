@@ -25,7 +25,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
-  focal_point: 'Center'
+  focal_point: Center
   preview_only: false
 
 # Projects (optional).
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-27T14:42:50.818859Z'
+publishDate: '2021-05-06T15:23:46.870084Z'
 publication_types:
 - '2'
 abstract: For a team of robots to work collaboratively, it is crucial that each robot

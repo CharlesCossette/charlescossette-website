@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-04-27T14:33:12.569443Z'
+publishDate: '2021-05-06T15:23:46.252194Z'
 publication_types:
 - '2'
 abstract: The complex-step derivative approximation is a numerical differentiation

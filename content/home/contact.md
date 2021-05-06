@@ -2,7 +2,7 @@
 # An instance of the Contact widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
-active: false
+active: true
 # This file represents a page section.
 headless: true
 
@@ -16,15 +16,8 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
   
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
   
 design:
   columns: '2'
 ---
+To get in touch with me, contact the email below or find me on [LinkedIn](https://www.linkedin.com/in/charles-cossette/)!
