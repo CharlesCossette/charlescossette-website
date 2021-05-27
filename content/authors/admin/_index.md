@@ -69,6 +69,6 @@ highlight_name: false
 
 I am a Ph.D. Candidate at McGill University, working with the [DECAR Systems Group](https://www.decar.ca/) under the supervision of Prof. James R. Forbes.
 
-My main research interests are in Robotics and Autonomous Systems, where I specialize in planning, estimation, and control algorithms for aerial swarms. We are also specifically researching how to best use [ultra-wideband radio](https://www.decawave.com/technology1/) to enable collaboration between robots.
+My main research interests are in Robotics and Autonomous Systems, where I specialize in planning, estimation, and control algorithms for multi-robot teams. We are  specifically researching how to best use [ultra-wideband radio](https://www.decawave.com/technology1/) to enable collaboration between robots.
 
 [//]: # ({{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.)

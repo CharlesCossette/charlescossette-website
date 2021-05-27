@@ -6,13 +6,14 @@ title: Heading  Estimation  Using  Ultra-wideband  Received  Signal  Strength an
 subtitle: ''
 summary: ''
 authors:
+- Daniil Lisus
 - Charles Champagne Cossette
 - Mohammed Shalaby
 - James Richard Forbes
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2021-05-05T19:29:59-04:00
+lastmod: 2021-05-18T10:40:51-04:00
 featured: false
 draft: false
 
@@ -30,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-06T15:23:47.217543Z'
+publishDate: '2021-05-18T14:40:51.216835Z'
 publication_types:
 - '1'
 abstract: It is essential that a robot has the ability to deter-mine its position

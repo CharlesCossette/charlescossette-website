@@ -14,7 +14,7 @@ tags:
 categories: []
 date: '2020-01-01'
 lastmod: 2021-04-27T10:33:12-04:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -45,4 +45,5 @@ abstract: The complex-step derivative approximation is a numerical differentiati
   the same results as an analytical method when available.
 publication: '*IEEE Robotics and Automation Letters*'
 doi: 10.1109/LRA.2020.2965882
+url_pdf: https://arxiv.org/abs/2105.02744
 ---

@@ -23,9 +23,9 @@ main:
  # - name: Contact
  #   url: '#contact'
  #   weight: 60
-  #- name: Research
-  #  url: research/
-  #  weight: 60
+  - name: Research
+    url: research/
+    weight: 60
   #- name: McGill Rocket Team
   #  parent: projects
 # Link to a PDF of your resume/CV from the menu.
