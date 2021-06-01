@@ -51,4 +51,5 @@ abstract: For a team of robots to work collaboratively, it is crucial that each 
 publication: '*IEEE Robotics and Automation Letters*'
 doi: 10.1109/LRA.2021.3067640
 url_pdf: https://arxiv.org/pdf/2104.10730.pdf
+url_video: https://youtu.be/GOgchWIghm8
 ---
