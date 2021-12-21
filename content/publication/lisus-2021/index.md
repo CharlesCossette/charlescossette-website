@@ -2,7 +2,6 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Heading  Estimation  Using  Ultra-wideband  Received  Signal  Strength and  Gaussian  Processes
-  (under review)
 subtitle: ''
 summary: ''
 authors:
@@ -13,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2021-05-18T10:40:51-04:00
+lastmod: 2021-09-28T07:50:44-04:00
 featured: false
 draft: false
 
@@ -31,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-18T14:40:51.216835Z'
+publishDate: '2021-09-28T11:50:43.997719Z'
 publication_types:
 - '1'
 abstract: It is essential that a robot has the ability to deter-mine its position
@@ -44,6 +43,6 @@ abstract: It is essential that a robot has the ability to deter-mine its positio
   is used to learn a data-driven relationship from  UWBrange and RSS inputs to orientation
   outputs. Combined with agyroscope in an invariant extended Kalman filter, this realizes
   aheading estimation method that uses only UWB and gyroscope measurements.
-publication: '*submitted to the International Conference on Intelligent Robots and
-  Systems*'
+publication: '*IEEE Robotics and Automation Letters*'
+url_pdf: https://arxiv.org/pdf/2109.04868.pdf
 ---

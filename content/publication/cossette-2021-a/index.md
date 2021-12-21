@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Localization with Directional Coordinates (under review)
+title: Localization with Directional Coordinates
 subtitle: ''
 summary: ''
 authors:
@@ -11,8 +11,8 @@ authors:
 - James Richard Forbes
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2021-05-05T19:29:59-04:00
+date: '2021-09-28'
+lastmod: 2021-09-28T07:50:43-04:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-06T15:23:47.047934Z'
+publishDate: '2021-09-28T11:50:43.844011Z'
 publication_types:
 - '1'
 abstract: A coordinate system is proposed that replaces the usual three-dimensional
@@ -41,6 +41,6 @@ abstract: A coordinate system is proposed that replaces the usual three-dimensio
   the proposed coordinate system results in a significantly enhanced ability to represent
   the true distribution of robot positions, ultimately leading to large improvements
   in state estimation consistency. .
-publication: '*submitted to the International Conference on Intelligent Robots and
-  Systems*'
+publication: '*IEEE/RSJ International Conference on Intelligent Robots and Systems*'
+url_pdf: https://arxiv.org/pdf/2109.09229.pdf
 ---
