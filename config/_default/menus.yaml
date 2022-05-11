@@ -26,6 +26,9 @@ main:
   - name: Research
     url: research/
     weight: 60
+  - name: Beer Recipes
+    url: beer/
+    weight: 70
   #- name: McGill Rocket Team
   #  parent: projects
 # Link to a PDF of your resume/CV from the menu.
